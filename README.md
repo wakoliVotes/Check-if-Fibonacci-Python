@@ -4,16 +4,7 @@
 - The background which forms the basis of the project is how the Fibonacci Sequence is structured
 - Notably, in the Fibonacci Sequence, the next value in the Sequence, is the sum of its two predecesors
 - Thus, in the Sequence, first three values 0, 1, 1
-> 0    0
-> 1    0 + 1
-> 1    
-> 2    0 + 1
-> 3
-> 5
-> 8
-> 13
-> 21
-> 
+>** 0, 1 , 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584 ***
 
 #### Other External Resources
 - To find out more on creating the Fibonacci Sequence, check this Link on GitHub
