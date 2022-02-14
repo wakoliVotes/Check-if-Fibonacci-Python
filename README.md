@@ -50,5 +50,5 @@ CheckIfFibonacci()
 
 
 #### Other External Resources
-- To find out more on creating the Fibonacci Sequence, check this Link [Fibonacci Sequence](https://gist.github.com/danny-votez/3111f753f452bcfc43f66b18a033b411) on GitHub
+- To find out more on creating the Fibonacci Sequence, check [Fibonacci Sequence](https://gist.github.com/danny-votez/3111f753f452bcfc43f66b18a033b411) gist on GitHub
 - For more information, read the article on [Python 101: Ultimate Python Guide]() on Medium. 
