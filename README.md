@@ -1,4 +1,4 @@
-### Check if Fiboncci Sequence Python Script
+### Python Script to Check if Number is Part of Fibonacci Sequence
 #### Overview and Background
 - This Python script works by checking if an entered number is part of the Fibonnacci Sequence or Not
 - The background which forms the basis of the project is how the Fibonacci Sequence is structured
